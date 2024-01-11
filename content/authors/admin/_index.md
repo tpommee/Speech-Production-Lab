@@ -1,5 +1,4 @@
 ---
-# Display name
 title: Speech Production Lab
 ---
 
