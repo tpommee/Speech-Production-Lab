@@ -72,7 +72,6 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: markdown
-    id: tools
     content:
       title: Gallery
       subtitle: ''
@@ -81,7 +80,7 @@ sections:
     design:
       columns: '1'
   - block: portfolio
-    id: projects
+    id: tools
     content:
       title: Tools
       filters:
