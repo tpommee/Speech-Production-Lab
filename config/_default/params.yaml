@@ -34,12 +34,15 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: true
+    logo:
+      text: "SPL"
+      filename: "logo.svg"
 
 # Site footer
 
