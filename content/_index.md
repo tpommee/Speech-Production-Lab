@@ -57,7 +57,7 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: ALS-BDI
+        - name: ALSBDI
           tag: ALSBDI
         - name: UMNLMN
           tag: UMNLMN
