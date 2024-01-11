@@ -57,8 +57,6 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: All
-          tag: '*'
         - name: ALS-BDI
           tag: ALSBDI
         - name: UMNLMN
@@ -94,8 +92,6 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: All
-          tag: '*'
         - name: VSLP
           tag: VSLP
         - name: OPEX
