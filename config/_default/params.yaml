@@ -70,7 +70,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: 'square'
+    shape: 
   comment:
     provider: ''
     disqus:
