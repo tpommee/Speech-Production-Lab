@@ -9,22 +9,15 @@ sections:
     content:
       title: The Speech Production Lab
       text: |
-        <div style="display: flex; align-items: left;">
-          <div style="flex: 1;">
-            The Speech Production Lab (SPL) is housed in the Department of Speech-Language Pathology at Temerty Faculty of Medicine, University of Toronto and is directed by Prof. Yana Yunusova.
+        The Speech Production Lab (SPL) is housed in the Department of Speech-Language Pathology at Temerty Faculty of Medicine, University of Toronto and is directed by Prof. Yana Yunusova.
 
-            Our lab is dedicated to the study of normal and disordered aspects of speech motor control and to innovation in the assessment and rehabilitation of individuals with neurologic and neurodegenerative disorders affecting speech and orofacial motor control.
+        Our lab is dedicated to the study of normal and disordered aspects of speech motor control and to innovation in the assessment and rehabilitation of individuals with neurologic and neurodegenerative disorders affecting speech and orofacial motor control.
 
-            We are also present at:
-            - [KITE – UHN](https://kite-uhn.com/scientist/yana-yunusova)
-            - [Sunnybrook Research Institute](https://sunnybrook.ca/team/member.asp?m=201&page=172)
-          </div>
-          <div style="flex: 1;">
-            <img src="images/avatar.jpg" alt="Avatar" style="max-width: 100%;">
-          </div>
-        </div>
+        We are also present at:
+        - [KITE – UHN](https://kite-uhn.com/scientist/yana-yunusova)
+        - [Sunnybrook Research Institute](https://sunnybrook.ca/team/member.asp?m=201&page=172)
     design:
-      columns: '1'
+      columns: '2'
   - block: portfolio
     id: research
     content:
