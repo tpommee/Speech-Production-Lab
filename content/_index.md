@@ -17,7 +17,7 @@ sections:
         - KITE – UHN: [KITE – UHN](https://kite-uhn.com/scientist/yana-yunusova)
         - Sunnybrook Research Institute: [Sunnybrook Research Institute](https://sunnybrook.ca/team/member.asp?m=201&page=172)
     design:
-      columns: '1'
+      columns: '2'
   - block: portfolio
     id: research
     content:
