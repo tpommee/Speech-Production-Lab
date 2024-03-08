@@ -45,10 +45,10 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Research
       filters:
         folders:
-          - project
+          - research
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -88,6 +88,20 @@ sections:
           tag: VSLP
         - name: OPEX
           tag: OPEX
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+- block: portfolio
+    id: people
+    content:
+      title: People
+      filters:
+        folders:
+          - people
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
