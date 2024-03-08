@@ -42,7 +42,7 @@ sections:
       title: The Speech Production Lab
       filters:
         folders:
-          - admin
+          - authors/admin
   - block: portfolio
     id: research
     content:
