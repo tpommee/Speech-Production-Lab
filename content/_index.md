@@ -36,8 +36,9 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-  - block: custom_content
-    id: lab_description
+
+  {{< block "lab_description" >}}
+
   - block: portfolio
     id: projects
     content:
