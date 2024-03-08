@@ -1,5 +1,6 @@
 ---
-title: ''
+title: 'The Speech Production Lab'
+block: about.biography
 ---
 
 The Speech Production Lab (SPL) is housed in the Department of Speech-Language Pathology at Temerty Faculty of Medicine, University of Toronto and is directed by Prof. Yana Yunusova. 
