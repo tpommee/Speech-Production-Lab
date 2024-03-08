@@ -42,7 +42,7 @@ sections:
       title: The Speech Production Lab
       filters:
         folders:
-          - authors/admin
+          - authors
   - block: portfolio
     id: research
     content:
@@ -122,7 +122,6 @@ sections:
       title: Contact
       subtitle:       
       # Contact (add or remove contact options as necessary)
-      email: yana.yunusova@utoronto.ca
       phone: (416)-946-8637
       address:
         street: 160-500 University Avenue
@@ -138,14 +137,6 @@ sections:
         
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
