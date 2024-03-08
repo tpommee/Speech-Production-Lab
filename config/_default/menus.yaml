@@ -7,12 +7,15 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Projects
-    url: '#projects'
+  - name: Research
+    url: '#research'
     weight: 20
   - name: Tools
     url: '#tools'
     weight: 30
+  - name: People
+    url: '#people'
+    weight: 40
   - name: Contact
     url: '#contact'
-    weight: 40
+    weight: 50
