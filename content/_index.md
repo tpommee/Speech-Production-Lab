@@ -8,8 +8,9 @@ sections:
   - block: markdown
     content:
       title: The Speech Production Lab
-      text: |
-      {{< content "/info" >}}
+      subtitle: ''
+      text: |-
+        {{< content "/info" >}}
     design:
       columns: '1'
   - block: portfolio
