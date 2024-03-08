@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: 'About Us'
+      title: 'The Speech Production Lab'
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: portfolio
@@ -101,7 +101,6 @@ sections:
       filters:
         folders:
           - people
-
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
