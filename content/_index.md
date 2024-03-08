@@ -14,10 +14,10 @@ sections:
         Our lab is dedicated to the study of normal and disordered aspects of speech motor control and to innovation in the assessment and rehabilitation of individuals with neurologic and neurodegenerative disorders affecting speech and orofacial motor control.
 
         We are also present at:
-        - [KITE – UHN](https://kite-uhn.com/scientist/yana-yunusova)
-        - [Sunnybrook Research Institute](https://sunnybrook.ca/team/member.asp?m=201&page=172)
+        - KITE – UHN: [KITE – UHN](https://kite-uhn.com/scientist/yana-yunusova)
+        - Sunnybrook Research Institute: [Sunnybrook Research Institute](https://sunnybrook.ca/team/member.asp?m=201&page=172)
     design:
-      columns: '2'
+      columns: '1'
   - block: portfolio
     id: research
     content:
